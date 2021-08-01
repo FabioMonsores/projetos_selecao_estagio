@@ -1,0 +1,6 @@
+AS REGRAS
+
+ Qualquer célula viva com menos de dois vizinhos vivos morre, como se causada por subpopulação.
+ Qualquer célula viva com dois ou três vizinhos vivos vive para a próxima geração.
+ Qualquer célula viva com mais de três vizinhos vivos morre, como se por superlotação.
+ Qualquer célula morta com exatamente três vizinhos vivos torna-se uma célula viva, como se por reprodução.
