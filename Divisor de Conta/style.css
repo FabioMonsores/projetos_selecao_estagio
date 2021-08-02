@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(2, 50, 104);
+}
+
+.style1{
+    border-width: 0;
+    border: solid gray 5px;
+    width: 90%;
+    border-radius: 5px;
+    margin: 5px auto;
+    background: white;
+}
+
+.style2{
+    border-width: 0;
+    border: solid gray 10px;
+    width: 90%;
+    border-radius: 5px;
+    margin: 5px auto;
+    background: white;
+    color: #ddd333;
+
+}
+
+.btn{
+   width: 202px;
+   height: 30px;
+   padding: 5px;
+   background: gray;
+   font-size: 20px;
+   color: white;
+
+}
+
+.ctbn{
+    width: 50px;
+    height: 40px;
+    font-size: 25;
+    border-radius: 8px;
+
+}
+
+textarea {
+    resize: none;
+ }
